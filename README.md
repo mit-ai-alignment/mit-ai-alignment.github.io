@@ -17,7 +17,6 @@ MIT's introductory course on AI safety, focusing on empirical ML that helps miti
 
 ## Schedule
 
-### Week 1
 | Date     | Time        | Topic                                   | Material                                                                                        |
 |----------|-------------|-----------------------------------------|-------------------------------------------------------------------------------------------------|
 | Mon 1-15 | 3 - 4:30 PM | Class 1: Introduction                   | • Guest lecture, Professor Dylan Hadfield-Menell (Zoom)                                         |
