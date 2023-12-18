@@ -18,17 +18,7 @@ MIT's introductory course on AI safety, focusing on empirical ML that helps miti
 ## Schedule
 
 ### Week 1
-| Date     | Time        | Topic                                   | Material                                                                                        |
-|----------|-------------|-----------------------------------------|-------------------------------------------------------------------------------------------------|
-| Mon 1-15 | 3 - 4:30 PM | Class 1: Introduction                   | • Guest lecture, Professor Dylan Hadfield-Menell (Zoom)                                         |
-| Tue 1-16 | 3 - 4:30 PM | Class 2: Reinforcement Learning         | • POMDPs    • Policy gradients    • Reward specification    • Goal generalization               |
-| Wed 1-17 | 3 - 4:30 PM | Class 3: ChatGPT Alignment              | • Reward models    • RLHF    • Jailbreaking language models                                     |
-| Thu 1-18 | 2 - 5 PM    | Lab 1                                   | • PyTorch basics    • RLHF    • Jailbreaking                                                    |
-
-### Week 2
-| Date     | Time        | Topic                                   | Material                                                                                        |
-|----------|-------------|-----------------------------------------|-------------------------------------------------------------------------------------------------|
-| Mon 1-22 | 3 - 4:30 PM | Class 4: Transformers                   | • Transformer architecture    • Induction heads    • Transformer circuits                       |
-| Tue 1-23 | 3 - 4:30 PM | Class 5: Superposition                  | • Feature visualization    • The superposition hypothesis    • Sparse autoencoders              |
-| Wed 1-24 | 3 - 4:30 PM | Class 6: Scalable Alignment             | • Scaling laws and emergence    • Model evaluations    • Detecting deception                    |
-| Thu 1-25 | 2 - 5 PM    | Lab 2                                   | • Build a transformer    • Sparse autoencoders    • Modular addition                            |
+| Date     | Time       | Topic     | Material   |
+|----------|------------|-----------|------------|
+| Mon 1-15 | 3 - 4:30 pm| Class 1   | Content 1  |
+| Tue 1-16 | 3 - 4:30 pm| Class 2   | Content 2  |
