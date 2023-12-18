@@ -1,0 +1,4 @@
+# _config.yml
+
+# Markdown Processor
+markdown: GFM
