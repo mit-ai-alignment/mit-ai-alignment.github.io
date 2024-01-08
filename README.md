@@ -19,11 +19,11 @@ MIT's introductory course on AI safety, focusing on empirical ML that helps miti
 
 | Date     | Time        | Topic                                   | Material                                                                                        |
 |----------|-------------|-----------------------------------------|-------------------------------------------------------------------------------------------------|
-| Mon 1-15 | 3 - 4:30 PM | Class 1: Introduction                   | • Guest lecture, Professor Dylan Hadfield-Menell (Zoom)                                         |
+| Mon 1-15 | 3 - 4:30 PM | Class 1: Introduction                   | • Guest lecture, Professor Dylan Hadfield-Menell (Zoom)<br>• Incomplete goal specifications<br>• Uncertainty modeling                                         |
 | Tue 1-16 | 3 - 4:30 PM | Class 2: Reinforcement Learning         | • POMDPs<br>• Policy gradients<br>• Reward specification<br>• Goal generalization               |
-| Wed 1-17 | 3 - 4:30 PM | Class 3: ChatGPT Alignment              | • Reward models<br>• RLHF<br>• Jailbreaking language models                                     |
+| Wed 1-17 | 3 - 4:30 PM | Class 3: ChatGPT Alignment              | • RLHF<br>• Reward modeling<br>• Jailbreaking language models                                     |
 | Thu 1-18 | 2 - 5 PM    | Lab 1                                   | • PyTorch basics<br>• RLHF<br>• Jailbreaking                                                    |
 | Mon 1-22 | 3 - 4:30 PM | Class 4: Transformers                   | • Transformer architecture<br>• Induction heads<br>• Transformer circuits                       |
 | Tue 1-23 | 3 - 4:30 PM | Class 5: Superposition                  | • Feature visualization<br>• The superposition hypothesis<br>• Sparse autoencoders              |
-| Wed 1-24 | 3 - 4:30 PM | Class 6: Scalable Alignment             | • Scaling laws and emergence<br>• Model evaluations<br>• Detecting deception                    |
+| Wed 1-24 | 3 - 4:30 PM | Class 6: Scalable Safety             | • Scaling laws and emergence<br>• Model evaluations<br>• Detecting deception                    |
 | Thu 1-25 | 2 - 5 PM    | Lab 2                                   | • Build a transformer<br>• Sparse autoencoders<br>• Modular addition                            |
