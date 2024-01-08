@@ -6,7 +6,7 @@ MIT's introductory course on AI safety, focusing on empirical ML that helps miti
 
 **Prerequisites:** 6:3900 (6.036) or equivalent.
 
-**Instructors:** Eric Gan, Eleni Shor, Kaivu Hariharan
+**Instructors:** Eric Gan, Eleni Shor, Julian Yocum
 
 ## Logistics
 - **Dates:** Weeks of 1-15-24 and 1-22-24
