@@ -21,13 +21,13 @@ MIT's introductory course on AI safety, focusing on empirical ML that helps miti
 
 ## Schedule
 
-| Date     | Time        | Topic                                | Material                                                                                                     |
-| -------- | ----------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| Mon 1-15 | 3 - 4:30 PM | Lecture 1: Reinforcement Learning    | [Lecture slides](https://drive.google.com/file/d/1X2I9PTfXwbMvmmaTm4H5IflZxBQ3DuCF/view?usp=drive_link)      |
-| Tue 1-16 | 3 - 4:30 PM | Lecture 2: CANCELLED                 |                                                                                                              |
-| Wed 1-17 | 3 - 4:30 PM | Lecture 3: ChatGPT Alignment         | • RLHF<br>• Reward modeling<br>• Jailbreaking language models                                                |
-| Thu 1-18 | 2 - 5 PM    | Lab 1                                | • PyTorch basics<br>• RLHF<br>• Gradient-based jailbreaking                                                  |
-| Mon 1-22 | 3 - 4:30 PM | Lecture 4: Transformers              | • Transformer architecture<br>• Induction heads<br>• Transformer circuits                                    |
-| Tue 1-23 | 3 - 4:30 PM | Lecture 5: Introduction to AI Safety | • Guest lecture by Prof. Dylan Hadfield-Menell<br>• Incomplete goal specifications<br>• Uncertainty modeling |
-| Wed 1-24 | 3 - 4:30 PM | Lecture 6: Model Internals           | • Scaling laws and emergence<br>• Model evaluations<br>• Detecting deception                                 |
-| Thu 1-25 | 2 - 5 PM    | Lab 2                                | • Build a transformer<br>• Sparse autoencoders<br>• Interpretability of modular addition                     |
+| Date     | Time        | Topic                               | Material                                                                                                                                             |
+| -------- | ----------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mon 1-15 | 3 - 4:30 PM | Lecture 1: Reinforcement Learning   | [Slides](https://drive.google.com/file/d/1X2I9PTfXwbMvmmaTm4H5IflZxBQ3DuCF/view?usp=drive_link)                                                      |
+| Tue 1-16 | 3 - 4:30 PM | Lecture 2: CANCELLED                |                                                                                                                                                      |
+| Wed 1-17 | 3 - 4:30 PM | Lecture 3: Language Model Alignment | [Slides](https://docs.google.com/presentation/d/1SxzgwHxvFXaK0yAlZBDXIdAON853Bjwb/edit?usp=drive_link&ouid=107163312778838593889&rtpof=true&sd=true) |
+| Thu 1-18 | 2 - 5 PM    | Lab 1                               | • PyTorch basics<br>• Multi-armed bandits<br>• Deep Q-Learning                                                                                       |
+| Mon 1-22 | 3 - 4:30 PM | Lecture 4: Transformers             | • Transformer architecture<br>• Induction heads<br>• Transformer circuits                                                                            |
+| Tue 1-23 | 3 - 4:30 PM | Lecture 5: Model Internals          | • Feature visualization<br>• Superposition<br>• Sparse autoencoders                                                                                  |
+| Wed 1-24 | 3 - 4:30 PM | Lecture 6: Scalable Safety          | • Scaling laws and emergence<br>• Model evaluations<br>• Detecting deception                                                                         |
+| Thu 1-25 | 2 - 5 PM    | Lab 2                               | • Build a transformer<br>• Sparse autoencoders<br>• Interpretability of modular addition                                                             |
